@@ -3,7 +3,7 @@ public class GeometricObject {
   boolean filled;
   java.util.Date dateCreate;
 
-  // empty constructor
+ // empty constructor
   GeometricObject() {
   };
 
